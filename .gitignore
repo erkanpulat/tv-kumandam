@@ -1,0 +1,49 @@
+# Android build outputs
+.gradle/
+.kotlin/
+.gradle-user-home/
+**/build/
+local.properties
+*.apk
+*.aab
+*.apks
+*.idsig
+*.mapping
+
+# Project-local command-line toolchain
+.tooling/
+.android-sdk/
+.android-user-home/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing material and local secrets
+*.jks
+*.keystore
+keystore.properties
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.dump
+*.hprof
+hs_err_pid*
+
+# Project-local worktrees
+.worktrees/
+worktrees/
+
+# Local design and agent working files
+.superpowers/
+.agents/
+.codex/
+docs/superpowers/
+AGENTS.md
+CLAUDE.md

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">TV Kumandam</title>
+  <desc id="description">Minimal kumanda çizgisi, kontrol halkası ve kızılötesi sinyal yaylarından oluşan logo</desc>
+  <path d="M192 130c36-31 92-31 128 0M164 94c52-45 132-45 184 0" fill="none" stroke="#21C7D9" stroke-linecap="round" stroke-width="12"/>
+  <rect x="190" y="168" width="132" height="244" rx="66" fill="none" stroke="#13213D" stroke-width="12"/>
+  <circle cx="256" cy="244" r="32" fill="none" stroke="#FF5A63" stroke-width="10"/>
+  <circle cx="256" cy="244" r="9" fill="#FF5A63"/>
+</svg>

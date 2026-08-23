@@ -1,0 +1,24 @@
+name: Hata bildirimi
+description: Uygulama veya IR profiliyle ilgili bir sorunu bildirin.
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: Ne oldu?
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Telefon modeli ve Android sürümü
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: TV ve kumanda modeli
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Profil, komut ve gözlenen sonuç
+    validations:
+      required: true
